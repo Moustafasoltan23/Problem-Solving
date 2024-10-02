@@ -7,10 +7,10 @@ public class Factorial {
         long num = scanner.nextLong();
 
         if (num == 1){
-            System.out.println("No");
+            System.out.println("NO");
 
         }else {
-            System.out.println("Yes");
+            System.out.println("YES");
         }
 
     }
